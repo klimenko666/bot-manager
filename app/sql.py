@@ -45,6 +45,7 @@ def create_tables():
             time_ticket TEXT,
             state_ticket TEXT,
             ticket_comm TEXT
+            
         )
     '''
     execute_query(users)
